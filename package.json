@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "projet discord -bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-scott/BotDiscord.js-1.git"
+  },
+  "keywords": [
+    "scotty-dev-camer"
+  ],
+  "author": "scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-scott/BotDiscord.js-1/issues"
+  },
+  "homepage": "https://github.com/dev-scott/BotDiscord.js-1#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
